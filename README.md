@@ -3,6 +3,7 @@
 **`Coding with Curiosity`**
 #### Som en engasjert nykommer i utvikler verdenen, har jeg bygget et solid fundament i JavaScript, Python, React og CSS er ivrig etter å utvide min kunnskap innen både front- og backend-teknologier ferd med å lære meg C# og .Net, samt andre teknologier som Docker. Min entusiasme for faget er drevet av en sterk vilje til å lære og tilpasse meg nye utfordringer. Jeg er glad i å lage logikk for å gjøre livet mitt enklere, og kanskje en dag dele noe mange vil ha glede av. Jeg er på utkikk etter en praksisplass som tilbyr muligheten til å vokse faglig, samarbeide med erfarne utviklere, og bidra til meningsfulle prosjekter. 
 
+---
 <!--
 **BigHugePotato/BigHugePotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
