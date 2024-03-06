@@ -4,17 +4,14 @@
 #### Som en engasjert nykommer i utvikler verdenen, har jeg bygget et solid fundament i JavaScript, Python, React og CSS er ivrig etter å utvide min kunnskap innen både front- og backend-teknologier ferd med å lære meg C# og .Net, samt andre teknologier som Docker. Min entusiasme for faget er drevet av en sterk vilje til å lære og tilpasse meg nye utfordringer. Jeg er glad i å lage logikk for å gjøre livet mitt enklere, og kanskje en dag dele noe mange vil ha glede av. Jeg er på utkikk etter en praksisplass som tilbyr muligheten til å vokse faglig, samarbeide med erfarne utviklere, og bidra til meningsfulle prosjekter. 
 
 ---
-<!--
-**BigHugePotato/BigHugePotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🔭 Languages & Developer tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+
+          
