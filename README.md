@@ -8,9 +8,9 @@
 #### Nå leter jeg etter en praksisplass der jeg kan vokse, lære av erfarne utviklere, og bidra til meningsfulle prosjekter. 
 
 ---
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=BigHugePotato&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-### 🔭 Languages & Developer tools
-
+### 🔭 Languages & Developer tools 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -18,6 +18,12 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+
+
+
+
+
           
 
 
