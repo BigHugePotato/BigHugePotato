@@ -2,7 +2,7 @@
 
 **`Coding with Curiosity`**
 #### Som en engasjert nykommer i utvikler verdenen, har jeg bygget et solid fundament i JavaScript, Python, React og CSS. 
-#### Jeg er ivrig etter å utvide min kunnskap innen både front- og backend-teknologier. For tiden lærer jeg meg PHP og Laravel, og tar kurs i C# med .NET, samt andre teknologier som Docker. 
+#### Jeg er ivrig etter å utvide min kunnskap innen både front- og backend-teknologier. For tiden lærer jeg meg Angular, og tar kurs i C# med .NET, samt andre teknologier som SQL og NoSQL. 
 ---
 #### Min entusiasme for faget er drevet av en sterk vilje til å lære og tilpasse meg nye utfordringer. Jeg er glad i å lage logikk for å gjøre livet mitt enklere, og en dag dele noe mange vil ha glede av.
 #### Nå leter jeg etter en praksisplass der jeg kan vokse, lære av erfarne utviklere, og bidra til meningsfulle prosjekter. 
